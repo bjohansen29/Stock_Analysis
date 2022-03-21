@@ -6,7 +6,7 @@ An analysis of the performance of a variety of stocks was performed at the reque
 # results 
 ## compare performance between 2017 and 2018
 ## add in 2017 and 2018 screenshots
-![Stock Performance in 2017] (/..main/resources/VBA_Challenge_2017.png)
+![Stock Performance in 2017] (/../main/resources/VBA_Challenge_2017.png)
 
 ![Stock Performance in 2018] (VBA_Challenge_2018.png)
 ## compare execution of original and refactored scripts
