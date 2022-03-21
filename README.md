@@ -22,7 +22,9 @@ Screenshots of my unsuccessful attempts (which I plan to redo and re-upload) are
 
 # Summary 
 ## Advantages and disadvantages of refactoring code
-In general, refactoring code can have a variety of advantages and disadvantages. If you did not write the original code, or if you simply did not comment out the original code in enough detail to prompt your memory, it's possible that while refactoring you may miss important sections and end up creating more problems than solutions.
+In general, refactoring code can have a variety of advantages and disadvantages. If you did not write the original code, or if you simply did not comment out the original code in enough detail to prompt your memory, it's possible that while refactoring you may miss important sections and end up creating more problems than solutions. However, a second pass through any code can always provide opportunities to make it more elegant and streamlined, and to ensure that comments are added in any areas that seem unclear.
+
 ## Application of these pros and cons to refactoring this particular code
-In this particular instance, the pro of refactoring the code is obvious- using it's original iteration with the newly expanded dataset will cause an exponential increase in the run time and resources used. This generally reflects more on the practice of simplifying code and removing repetitions whenever possible than it does on the overall uses of refactoring as a process.
-In this particular code, the con of refactoring the code was fairly specific to me as a user- since I was unable to get the refactored code to work correctly, I've helped nothing!
+For this particular use case, the pro of refactoring the code is obvious- using it's original iteration with the newly expanded dataset will cause an exponential increase in the run time and resources used. This generally reflects more on the practice of simplifying code and removing repetitions whenever possible than it does on the overall uses of refactoring as a process.
+
+In this particular code, the con of refactoring the code was fairly specific to me as a user- since I was unable to get the refactored code to work correctly, I've helped nothing! This is also emblematic of the difficulties in refactoring code if the user is not aware of all of the specifics of the new structure, or if the user is unfamiliar with one key portion of the necessary functions.
