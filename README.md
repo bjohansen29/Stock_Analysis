@@ -6,9 +6,9 @@ An analysis of the performance of a variety of stocks was performed at the reque
 # results 
 ## compare performance between 2017 and 2018
 ## add in 2017 and 2018 screenshots
-![Stock Performance in 2017](https://github.com/bjohansen29/Stock_Analysis/main/VBA%20Challenge%20Resources/VBA_Challenge_2017.png)
+![Stock Performance in 2017](VBA_Challenge_2017.png)
 
-![Stock Performance in 2018] (VBA_Challenge_2018.png)
+![Stock Performance in 2018](VBA_Challenge_2018.png)
 ## compare execution of original and refactored scripts
 # summary 
 ## advantages and disadvantages of refactoring code
